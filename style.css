@@ -1,0 +1,25 @@
+* { 
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+}
+body {
+    background: rgb(93, 93, 231);
+  }
+
+.wrapper {
+    width: 80%;
+	margin: 0 auto;
+
+  }
+
+.midSection {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+img {
+   height: 300px;
+}
