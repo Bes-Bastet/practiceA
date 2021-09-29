@@ -42,7 +42,7 @@ body {
 @font-face {
   font-family: "Pinyon Script";
   src: url("PinyonScriptRegular.ttf");
-            }
+}
   
 @font-face {
     font-family: "Steampunk Font by *hannarb";
@@ -53,6 +53,45 @@ body {
   font-family: "ZnikomitNo25";
   src: url("ZnikomitNo25.otf");
 } 
+
+@font-face {
+  font-family: "AtlantisInlineGrunge.ttf";
+  src: url("AtlantisInlineGrunge.ttf");
+} 
+
+@font-face {
+  font-family: "AtlantisInlineGrunge.otf";
+  src: url("AtlantisInlineGrunge.otf");
+} 
+
+@font-face {
+  font-family: "Steampunk.otf";
+  src: url("Steampunk.otf");
+} 
+
+@font-face {
+  font-family: "Steamwreck-07pd.ttf";
+  src: url("Steamwreck-07pd.ttf");
+} 
+@font-face {
+  font-family: "SteamwreckBold-e3Xp.ttf";
+  src: url("SteamwreckBold-e3Xp.ttf");
+} 
+
+@font-face {
+  font-family: "SteamwreckBoldItalic-WLBY.ttf";
+  src: url("SteamwreckBoldItalic-WLBY.ttf");
+} 
+@font-face {
+  font-family: "SteamwreckBold-e3Xp.ttf";
+  src: url("SteamwreckBold-e3Xp.ttf");
+} 
+@font-face {
+  font-family: "Steamwreck-07pd.ttf";
+  src: url("Steamwreck-07pd.ttf");
+} 
+
+
 
 .wrapper {
     width: 80%;
