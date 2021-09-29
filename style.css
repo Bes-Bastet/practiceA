@@ -16,6 +16,11 @@ body {
     
     }
 
+    @font-face {
+    font-family: "Steampunk Font by *hannarb";
+    src: url("Steampunk_Font_by_hannarb.ttf");
+}
+
     
   
   /*@font-face {
@@ -46,13 +51,7 @@ body {
   font-family: "Pinyon Script";
   src: url("PinyonScript-Regular.ttf");
 }
-  
-/*@font-face {
-    font-family: "Steampunk Font by *hannarb";
-    src: url("Steampunk_Font_by_hannarb.ttf");
-}*/
-
-  
+   
 
     /*@font-face {
       font-family: "Steampunk Font by *hannarb";
