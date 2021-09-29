@@ -11,7 +11,7 @@ body {
   }
 
 @font-face {
-    font-family: "PoiretOne-Regular";
+    font-family: "Poiret One";
     src: url("PoiretOne-Regular.ttf");
     }
   
@@ -26,11 +26,11 @@ body {
         }
   
 @font-face {
-        font-family: "StarshipGrunge";
+        font-family: "Starship Grunge";
         src: url("StarshipGrunge.ttf");
         }
 @font-face {
-          font-family: "StarshipGrunge";
+          font-family: "Starship Grunge";
           src: url("StarshipGrunge.otf");
           }
 
@@ -40,12 +40,12 @@ body {
           }
   
 @font-face {
-  font-family: "PinyonScriptRegular";
+  font-family: "Pinyon Script";
   src: url("PinyonScriptRegular.ttf");
             }
   
 @font-face {
-    font-family: "Steampunk_Font_by_hannarb";
+    font-family: "Steampunk Font by *hannarb";
     src: url("Steampunk_Font_by_hannarb.ttf");
 } 
 
