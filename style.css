@@ -10,6 +10,45 @@ body {
   background-color: rgba(144, 238, 238, 0.534);
   }
 
+@font-face {
+    font-family: "Poiret One";
+    src: url("Poiret One.ttf");
+    }
+  
+  @font-face {
+    font-family: "Starship Inline Grunge";
+    src: url("Starship Inline Grunge.otf");
+      }
+  
+      @font-face {
+        font-family: "Starship Inline Grunge";
+        src: url("Starship Inline Grunge.ttf");
+        }
+  
+@font-face {
+        font-family: "Starship Grunge";
+        src: url("Starship Grunge.ttf");
+        }
+@font-face {
+          font-family: "Starship Grunge";
+          src: url("Starship Grunge.otf");
+          }
+
+ @font-face {
+          font-family: "UpperEastSide";
+          src: url("UpperEastSide.ttf");
+          }
+  
+@font-face {
+  font-family: "Pinyon Script";
+  src: url("Pinyon Script.ttf");
+            }
+  
+@font-face {
+    font-family: "Steampunk font by *hannarb";
+    src: url("Steampunk font by *hannarb.ttf");
+} 
+
 .wrapper {
     width: 80%;
 	margin: 0 auto;
