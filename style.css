@@ -26,11 +26,11 @@ body {
         }
   
 @font-face {
-        font-family: "Starship Grunge";
+        font-family: "StarshipGrunge";
         src: url("StarshipGrunge.ttf");
         }
 @font-face {
-          font-family: "Starship Grunge";
+          font-family: "StarshipGrunge";
           src: url("StarshipGrunge.otf");
           }
 
@@ -40,12 +40,12 @@ body {
           }
   
 @font-face {
-  font-family: "Pinyon Script";
+  font-family: "PinyonScriptRegular";
   src: url("PinyonScriptRegular.ttf");
             }
   
 @font-face {
-    font-family: "Steampunk font by *hannarb";
+    font-family: "Steampunk_Font_by_hannarb";
     src: url("Steampunk_Font_by_hannarb.ttf");
 } 
 
