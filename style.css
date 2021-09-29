@@ -49,6 +49,11 @@ body {
     src: url("Steampunk font by *hannarb.ttf");
 } 
 
+@font-face {
+  font-family: "ZnikomitNo25";
+  src: url("ZnikomitNo25.otf");
+} 
+
 .wrapper {
     width: 80%;
 	margin: 0 auto;
