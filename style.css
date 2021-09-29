@@ -44,16 +44,16 @@ body {
   src: url("PinyonScript-Regular.ttf");
 }
   
-@font-face {
+/*@font-face {
     font-family: "Steampunk Font by *hannarb";
     src: url("Steampunk_Font_by_hannarb.ttf");
-}
-
-   /* @font-face {
-      font-family: "Steampunk Font by *hannarb";
-      src: url("Steampunkfontby*hannarb.ttf");
-  
 }*/
+
+   @font-face {
+      font-family: "Steampunk Font by *hannarb";
+      src: url("https://www.wfonts.com/font/steampunk-font-by-hannarb");
+  
+}
 
     /*@font-face {
       font-family: "Steampunk Font by *hannarb";
