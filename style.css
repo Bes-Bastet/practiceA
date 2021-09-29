@@ -13,9 +13,16 @@ body {
 @font-face {
     font-family: "Poiret One";
     src: url("PoiretOne-Regular.ttf");
+    
     }
+
+    @font-face {
+      font-family: "Steampunk Font by *hannarb";
+      src: url("https://www.wfonts.com/search?kwd=Steampunk_Font_by_hannarb.ttf");
   
-  @font-face {
+}
+  
+  /*@font-face {
     font-family: "Starship Inline Grunge";
     src: url("Starship Inline Grunge.otf");
       }
@@ -23,7 +30,7 @@ body {
       @font-face {
         font-family: "Starship Inline Grunge";
         src: url("Starship Inline Grunge.ttf");
-        }
+        }*/
   
 @font-face {
         font-family: "Starship Grunge";
@@ -49,18 +56,12 @@ body {
     src: url("Steampunk_Font_by_hannarb.ttf");
 }*/
 
-   @font-face {
-      font-family: "Steampunk Font by *hannarb";
-      src: url("https://www.wfonts.com/search?kwd=Steampunk_Font_by_hannarb.ttf");
   
-}
 
     /*@font-face {
       font-family: "Steampunk Font by *hannarb";
       src: url("Steampunk_Font_by_hannarb.ttf");
   } */
-
-  
 
 @font-face {
   font-family: "ZnikomitNo25";
