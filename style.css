@@ -5,7 +5,9 @@
 
 }
 body {
-    background: rgb(93, 93, 231);
+  font-family: 'Timepiece', sans-serif;
+  font-size: 1.5em;
+  background-color: rgba(144, 238, 238, 0.534);
   }
 
 .wrapper {
@@ -22,4 +24,149 @@ body {
 
 img {
    height: 300px;
+}
+
+.p1 {
+  font-family: 'Pinyon Script', cursive;  
+}
+
+.p2 {
+    font-family: 'Poiret One', sans-serif;
+}
+
+.p3 {
+    font-family: 'Steamwheel', sans-serif;
+}
+
+.p5 {
+  font-family: 'Park Lane NF', sans-serif;
+}
+.p6 {
+  font-family: 'KH-Metropolis', sans-serif;
+}
+.p7 {
+  font-family: 'Blackadder ITC', sans-serif;
+}
+.p8 {
+  font-family: 'Atlantis Inline Grunge', sans-serif;
+}
+.p9 {
+  font-family: 'Starship Regular', sans-serif;
+}
+.p10 {
+  font-family: 'Starship Grunge', sans-serif;
+}
+.p11 {
+  font-family: 'Starship Inline', sans-serif;
+}
+.p12 {
+  font-family: 'Starship Inline Grunge', sans-serif;
+}
+.p13 {
+  font-family: 'Steampunk font by *hannarb', sans-serif;
+}
+.p14 {
+  font-family: 'Steampunk', sans-serif;
+}
+.p15 {
+  font-family: 'Steamwreck', sans-serif;
+}
+.p16 {
+  font-family: 'Freestyle Script', sans-serif;
+}
+.p17 {
+  font-family: 'geosteam', sans-serif;
+}
+.p18 {
+  font-family: 'Edwardian Script ITC', cursive;
+}
+.p19 {
+  font-family: 'Vivaldi', sans-serif;
+}
+.p20 {
+  font-family: 'Vladimir Script', sans-serif;
+}
+.p21 {
+  font-family: 'Parchment', sans-serif;
+}
+.p22 {
+  font-family: 'Palace Script MT', sans-serif;
+}
+.p23 {
+  font-family: 'Kunstler Script', sans-serif;
+}
+.p24 {
+  font-family: 'French Script MT', sans-serif;
+}
+.p25 {
+  font-family: 'Broadway', sans-serif;
+}
+.p26 {
+  font-family: 'AR BONNIE', sans-serif;
+}
+.p27 {
+  font-family: 'Antique Android', sans-serif;
+}
+.p28 {
+  font-family: 'ZnikomitNo25', sans-serif;
+}
+.p29 {
+  font-family: 'Deco Card', sans-serif;
+}
+.p30 {
+  font-family: 'GatsbyFLF', sans-serif;
+}
+.p31 {
+  font-family: 'November Sky Demo', sans-serif;
+}
+.p32 {
+  font-family: "Party at Gatsby's", sans-serif;
+}
+.p33 {
+  font-family: 'Picadilly', sans-serif;
+}
+.p34 {
+  font-family: 'Smart Frocks NF', sans-serif;
+}
+.p35 {
+  font-family: 'Stage', sans-serif;
+}
+.p36 {
+  font-family: 'Standing Room Only NF', sans-serif;
+}
+.p37 {
+  font-family: 'StandingRoomOnly', sans-serif;
+}
+.p38 {
+  font-family: 'Upp Ea Leftys', sans-serif;
+}
+.p39{
+  font-family: 'UpperEastSide', sans-serif;
+}
+.p40{
+  font-family: 'Champagne & Limousines', sans-serif;
+}
+.p41{
+  font-family: 'Vanity', sans-serif;
+}
+.p42{
+  font-family: 'Vanity Light', sans-serif;
+}
+.p43{
+  font-family: 'Vanity Light Narrow', sans-serif;
+}
+.p44{
+  font-family: 'Vanity Light Wide', sans-serif;
+}
+.p45{
+  font-family: 'Vanity Narrow', sans-serif;
+}
+.p46{
+  font-family: 'Vanity Wide', sans-serif;
+}
+.p47{
+  font-family: 'Young 20s', sans-serif;
+}
+.p48{
+  font-family: 'ZnikomitNo24', sans-serif;
 }
