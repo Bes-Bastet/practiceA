@@ -47,7 +47,14 @@ body {
 @font-face {
     font-family: "Steampunk Font by *hannarb";
     src: url("Steampunk_Font_by_hannarb.otf");
-} 
+
+}
+
+    @font-face {
+      font-family: "Steampunk Font by *hannarb";
+      src: url("Steampunk_Font_by_hannarb.ttf");
+  } 
+
 
 @font-face {
   font-family: "ZnikomitNo25";
