@@ -155,7 +155,7 @@ img {
   font-family: 'Starship Inline Grunge', sans-serif;
 }
 .p13 {
-  font-family: 'Steampunk font by *hannarb', ui-sans-serif;
+  font-family: 'Steampunk font by *hannarb', ui-serif;
 }
 .p14 {
   font-family: 'Steampunk', sans-serif;
@@ -261,4 +261,8 @@ img {
 }
 .p48{
   font-family: 'ZnikomitNo24', sans-serif;
+}
+
+.p49{
+  font-family: 'Times New Roman', Times, serif;
 }
