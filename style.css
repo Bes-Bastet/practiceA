@@ -21,6 +21,21 @@ body {
     src: url("Steampunk_Font_by_hannarb.ttf");
 }
 
+@font-face {
+  font-family: "Antique Android";
+  src: url("https://www.fontspace.com/antique-android-font-f30276");
+}
+
+@font-face {
+  font-family: "Champagne & Limousines";
+  src: url("https://www.fontspace.com/champagne-and-limousines-font-f7424");
+  
+}
+
+
+
+
+
     
   
   /*@font-face {
