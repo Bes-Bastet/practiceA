@@ -17,12 +17,11 @@ body {
     
     }
 
-    @font-face {
-      font-family: "Timepiece";
-      src: url("https://www.fontspace.com/timepiece-font-f54826");
-      src: url("Timepiece-RpdEW.ttf");
-      
-      }
+ @font-face {
+  font-family: "Timepiece";
+  src: url("https://www.fontspace.com/timepiece-font-f54826");
+  src: url("Timepiece-RpdEW.ttf");
+  }
 
     @font-face {
     font-family: "Steampunk Font by *hannarb";
@@ -32,6 +31,7 @@ body {
 @font-face {
   font-family: "Antique Android";
   src: url("https://www.fontspace.com/antique-android-font-f30276");
+  src: url("AntiqueandroidRegular-3V9z.otf");
 }
 
 @font-face {
@@ -49,15 +49,11 @@ body {
 }
 
 @font-face {
-  font-family: "GatsbyFLF";
-  src: url("https://www.fontspace.com/gatsbyflf-font-f1238");
-  src: url("Gatsbyflf-gxBp.ttf");
+  font-family: "Steamwheel";
+  src: url("https://www.fontspace.com/steamwheel-font-f54822");
+  src: url("Steamwheel-jE7gM.ttf");
   
 }
-
-
-
-    
   
   /*@font-face {
     font-family: "Starship Inline Grunge";
@@ -305,6 +301,11 @@ img {
 .p50{
   font-family: 'Antique Android', ui-sans-serif;
 }
+
+.p54{
+  font-family: 'Steamwheel', ui-sans-serif;
+}
+
 
 .p51{
   font-family: 'Champagne & Limousines', ui-sans-serif;
