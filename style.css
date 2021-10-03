@@ -10,11 +10,19 @@ body {
   background-color: rgba(144, 238, 238, 0.534);
   }
 
+
 @font-face {
     font-family: "Poiret One";
     src: url("PoiretOne-Regular.ttf");
     
     }
+
+    @font-face {
+      font-family: "Timepiece";
+      src: url("https://www.fontspace.com/timepiece-font-f54826");
+      src: url("Timepiece-RpdEW.ttf");
+      
+      }
 
     @font-face {
     font-family: "Steampunk Font by *hannarb";
@@ -27,12 +35,25 @@ body {
 }
 
 @font-face {
-  font-family: "Champagne & Limousines";
-  src: url("https://www.fontspace.com/champagne-and-limousines-font-f7424");
+  font-family: "Deco Card";
+  src: url("https://www.fontspace.com/deco-card-font-f3966");
+  src: url("DecoCard-MZAY.ttf");
   
 }
 
+@font-face {
+  font-family: "GatsbyFLF";
+  src: url("https://www.fontspace.com/gatsbyflf-font-f1238");
+  src: url("Gatsbyflf-gxBp.ttf");
+  
+}
 
+@font-face {
+  font-family: "GatsbyFLF";
+  src: url("https://www.fontspace.com/gatsbyflf-font-f1238");
+  src: url("Gatsbyflf-gxBp.ttf");
+  
+}
 
 
 
@@ -286,5 +307,11 @@ img {
 }
 
 .p51{
-  font-family: 'Champagne & Limousines', Times, serif;
+  font-family: 'Champagne & Limousines', ui-sans-serif;
+}
+.p52{
+  font-family: 'GatsbyFLF', ui-sans-serif
+}
+.p53{
+  font-family: 'Timepiece', ui-sans-serif
 }
